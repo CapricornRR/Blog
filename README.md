@@ -98,6 +98,7 @@
 
 ## Vue
 ### 1.[渐进式框架、数据流和绑定]()
+### 2.[模板语法与内置指令](https://github.com/CapricornRR/Blog/issues/1)
 
 ## VueJS
 
