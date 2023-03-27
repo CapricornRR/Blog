@@ -97,8 +97,16 @@
 ## Git
 
 ## Vue
-### 1.[渐进式框架、数据流和绑定]()
-### 2.[模板语法与内置指令](https://github.com/CapricornRR/Blog/issues/1)
+### 1.[渐进式框架、数据流和绑定](https://github.com/CapricornRR/Blog/issues/2)
+### 2.[Vue项目的几种构建方式](https://github.com/CapricornRR/Blog/issues/3)
+### 3.[Webpack从0开始搭建Vue项目](https://github.com/CapricornRR/Blog/issues/4)
+### 4.[组件化设计、注册组件与属性](https://github.com/CapricornRR/Blog/issues/5)
+### 5.[应用实例-组件实例与根组件实例](https://github.com/CapricornRR/Blog/issues/6)
+### 6.[模板语法与内置指令](https://github.com/CapricornRR/Blog/issues/1)
+### 7.[深入data属性及数据响应式实现](https://github.com/CapricornRR/Blog/issues/7)
+### 8.[深入methods属性及方法挂载实现](https://github.com/CapricornRR/Blog/issues/8)
+### 9.[深入computed计算属性及watch](https://github.com/CapricornRR/Blog/issues/9)
+### 10.[class绑定方法、style绑定方法](https://github.com/CapricornRR/Blog/issues/10)
 
 ## VueJS
 
