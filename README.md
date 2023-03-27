@@ -107,6 +107,10 @@
 ### 8.[深入methods属性及方法挂载实现](https://github.com/CapricornRR/Blog/issues/8)
 ### 9.[深入computed计算属性及watch](https://github.com/CapricornRR/Blog/issues/9)
 ### 10.[class绑定方法、style绑定方法](https://github.com/CapricornRR/Blog/issues/10)
+### 11.[条件渲染v-show、v-if](https://github.com/CapricornRR/Blog/issues/11)
+### 12.[列表渲染v-for](https://github.com/CapricornRR/Blog/issues/12)
+### 13.[数组的变更检测](https://github.com/CapricornRR/Blog/issues/13)
+### 14.[v-if与v-for联合使用](https://github.com/CapricornRR/Blog/issues/14)
 
 ## VueJS
 
